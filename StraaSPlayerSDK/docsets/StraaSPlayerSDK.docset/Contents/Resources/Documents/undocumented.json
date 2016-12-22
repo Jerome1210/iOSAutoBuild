@@ -1,0 +1,19 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/lee/Documents/Developer/ios-sdk/StraaSPlayerSDK/StraaSPlayerSDK.h",
+      "line": 12,
+      "symbol": "StraaSSDKVersionNumber",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lee/Documents/Developer/ios-sdk/StraaSPlayerSDK/StraaSPlayerSDK.h",
+      "line": 15,
+      "symbol": "StraaSSDKVersionString",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/lee/Documents/Developer/ios-sdk"
+}

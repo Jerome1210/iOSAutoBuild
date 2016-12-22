@@ -1,0 +1,33 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/lee/Documents/Developer/ios-sdk/StraaSMessagingSDK/NSError+StraaSMessagingSDK.h",
+      "line": 11,
+      "symbol": "STSMSGErrorDomain",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lee/Documents/Developer/ios-sdk/StraaSMessagingSDK/NSError+StraaSMessagingSDK.h",
+      "line": 77,
+      "symbol": "NSError(StraaSMessagingSDK)",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.category",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lee/Documents/Developer/ios-sdk/StraaSMessagingSDK/StraaSMessagingSDK.h",
+      "line": 12,
+      "symbol": "StraaSMessagingSDKVersionNumber",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lee/Documents/Developer/ios-sdk/StraaSMessagingSDK/StraaSMessagingSDK.h",
+      "line": 15,
+      "symbol": "StraaSMessagingSDKVersionString",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/lee/Documents/Developer/ios-sdk"
+}

@@ -1,0 +1,19 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/lee/Documents/Developer/ios-sdk/StraaSStreamingSDK/StraaSStreamingSDK.h",
+      "line": 12,
+      "symbol": "StraaSStreamingSDKVersionNumber",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lee/Documents/Developer/ios-sdk/StraaSStreamingSDK/StraaSStreamingSDK.h",
+      "line": 15,
+      "symbol": "StraaSStreamingSDKVersionString",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/lee/Documents/Developer/ios-sdk"
+}
